@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-     <?php include 'inc_js.php';
+     <?php    include 'inc_js.php';
               include 'form/main_form.php';
               include 'form/gridview.php';
               include 'database/db_tools.php';
@@ -37,8 +37,7 @@
 
       <div class="text-center mb-4">
         <img class="mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
-        <h1 class="h3 mb-3 font-weight-normal">Floating labels</h1>
-        <p>Build form controls with floating labels via the <code>:placeholder-shown</code> pseudo-element. <a href="https://caniuse.com/#feat=css-placeholder-shown">Works in latest Chrome, Safari, and Firefox.</a></p>
+        <h1 class="h3 mb-3 font-weight-normal">เข้าสู่ระบบ</h1>
       </div>
 
       <div class="form-label-group">
